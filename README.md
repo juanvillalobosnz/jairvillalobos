@@ -1,7 +1,7 @@
 <h1 align="center">Hi :sunglasses:, I'm Jair Villalobos</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Tigo Money](https://play.google.com/store/apps/details?id=gt.tigo.mfsapp&hl=en_US&gl=US)
+- 🔭 I’m currently working on [Tigo Money](https://tigomoney.com)
 
 - 🌱 I’m currently learning **Go**
 
