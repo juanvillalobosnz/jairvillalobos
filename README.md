@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web development and custom software design**
 
-- 📫 How to reach me **juanjair2018hotmail.com**
+- 📫 How to reach me **juanjair2018@hotmail.com**
 
 - ⚡ Fun fact **I usually play with the animations of video conferencing apps**
 
