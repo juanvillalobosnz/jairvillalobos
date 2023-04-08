@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tigo Money V2](https://tigomoney.com)
 
-- 🌱 I’m currently learning **Go (programming language)**
+- 🌱 I’m currently learning **Go (programming language) and React**
 
 - 👨‍💻 All of my projects are available at
 [https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io/public/)
