@@ -1,19 +1,12 @@
 <h1 align="center">Hi 🧑🏾‍💻, I'm Jair Villalobos</h1>
-<h3 align="center">A passionate Software developer from Colombia</h3>
+<h3 align="center">A passionate Software developer from Colombia 🇨🇴</h3>
 
-- 🔭 I’m currently working on [Tigo Money](https://tigomoney.com/gt/home-gt)
-
-- 🌱 I’m currently learning **Python and Go (programming language) and React**
-
-- 👨‍💻 All of my projects are available at
-[https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io)
-
-- 💬 Ask me about **Web development and custom software design**
-
-- 📫 How to reach me **juanjair2018@hotmail.com**
-
-- ⚡ Fun fact **I usually play with the animations of video conferencing apps**
-
+- 🔭 I’m currently working on Tigo Money 💰
+- 🌱 I’m currently learning **Python 🐍, Go (programming language) 🐹, and React ⚛️**
+- 👨‍💻 All of my projects are available at my portfolio
+- 💬 Ask me about **Web development 💻 and custom software design 🖥️**
+- 📫 How to reach me: Email
+- ⚡ Fun fact: **I usually play with the animations of video conferencing apps 🎥**
 
 ## <h3 align="left">Languages and Tools:</h3>
 
