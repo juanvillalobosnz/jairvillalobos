@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Tigo Money](https://tigomoney.com/gt/home-gt) 💰
 - 🌱 I’m currently learning **Python 🐍, Go (programming language) 🐹, and React ⚛️**
-- 👨‍💻 All of my projects are available at my portfolio [here](https://jairvillalobos.com/)
+- 👨‍💻 All of my projects are available at my portfolio [here](https://jairvillalobos.github.io/)
 - 💬 Ask me about **Web development 💻 and custom software design 🖥️**
 - 📫 How to reach me: [Email](mailto:juanjair2018@hotmail.com)
 - ⚡ Fun fact: **I usually play with the animations of video conferencing apps 🎥**
