@@ -12,6 +12,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,fastapi,aws,go,django,python,java,figma,express,angular,sass,nextjs,js,html,css,react,postman,postgresql,linux,nodejs,git,spring,tailwindcss,mysql,qt,sequelize,vscode,wordpress,ts,bootstrap" alt="Skills icons" />
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,aws,go,django,python,js,html,css,react,postman,postgresql,linux,nodejs,git,tailwindcss,mysql,ts" alt="Skills icons" />
   </a>
 </p>
