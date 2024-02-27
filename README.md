@@ -1,6 +1,6 @@
 #  Hi ‍👦🏾, I'm Juan Villalobos
 
-##  Software Engineer | Backend | Python | Go | TypeScript
+##  Full stack developer | Backend | Python | Go | TypeScript | Backend | Python | Go | TypeScript
 
 -  I’m currently working on: [Tigo Money](https://tigomoney.com/gt/home-gt) 
 -  I’m currently learning **Python , Go (programming language) , and React ⚛️**
