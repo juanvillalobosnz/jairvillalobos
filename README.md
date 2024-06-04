@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan J. Villalobos 👋
 
 ## Acerca de mí
-Soy un desarrollador de backend apasionado por construir sistemas robustos y escalables utilizando Python, Go y diversas tecnologías web. Mi enfoque principal es el diseño e implementación de APIs RESTful y bases de datos tanto relacionales como no relacionales. Siempre estoy explorando nuevas tecnologías y herramientas para mejorar mis habilidades.
+Soy un desarrollador backend con más de 4 años de experiencia. Mi enfoque se centra en crear soluciones sólidas y seguras para diferentes sectores. Tengo habilidades en Python, Go, FastAPI, Django, Java, Spring Boot y Next.js. Trabajo con microservicios, SQL, AWS Lambda, Docker y arquitecturas sin servidor para garantizar la entrega de software de calidad que cumpla con las expectativas de mis clientes.
 
 ## Tecnologías
 - **Lenguajes:** 
