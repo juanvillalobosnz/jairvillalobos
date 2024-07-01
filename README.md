@@ -34,7 +34,4 @@ Tengo más de 4 años de experiencia en desarrollo backend, especializándome en
 - **LinkedIn:** 
   [![LinkedIn](https://img.shields.io/badge/-Juan%20J.%20Villalobos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjvnz/)
 
-- **Correo electrónico:** 
-  jjvnz.dev@outlook.com
-  
 ¡No dudes en contactarme para oportunidades de colaboración o simplemente para charlar sobre tecnología!
