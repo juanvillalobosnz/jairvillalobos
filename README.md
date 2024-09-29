@@ -1,6 +1,6 @@
 # Hello! I'm Juan Villalobos 👋
 
-### Full Stack Developer | Python, Golang, Spring Boot, React | Microservices & AWS | Junior Data Analyst (PySpark)
+### Desarrollador Full Stack | Python, Go, Spring Boot, React | Microservicios y QA
 
 📍 **Location:** Colombia  
 📞 **Phone:** +57 3013144203  
