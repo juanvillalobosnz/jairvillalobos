@@ -1,24 +1,54 @@
-# ¡Hola! Soy Juan Villalobos 👋
+# Hello! I'm Juan Villalobos 👋
 
-### 🧑‍💻 Sobre mí
-Full Stack Developer especializado en Python, Go y Java, React, Flutter. Experto en microservicios y arquitecturas serverless en AWS. Apasionado por soluciones tecnológicas escalables y seguras.
+### Full Stack Developer | Microservices & AWS Specialist
 
-### 🔧 Tecnologías & Herramientas
-- **Lenguajes:** Python, Go, Java
-- **Frameworks:** FastAPI, Django, Spring Boot, Gin
-- **Cloud & DevOps:** AWS, Docker, Jenkins, Git
-- **Metodologías:** Scrum, Agile
-
-### 📊 Mis estadísticas de GitHub
-![Estadísticas de GitHub de Juan Jair Villalobos](https://github-readme-stats.vercel.app/api?username=jjvnz&show_icons=true&theme=radical)
-
-### 🌐 Contacto
-- [LinkedIn](https://linkedin.com/in/jjvnz)
-- [Correo electrónico](mailto:jjvnz.dev@outlook.com)
-
-### 📚 Educación & Certificaciones
-- Tecnólogo en Desarrollo de Software, Fundación Universitaria Tecnológico Comfenalco
-- Certificaciones: Go (Coursera, UCI), Data Science, Web Development with Python (IBM), Scrum, Cybersecurity, Data Analysis (PySpark)
+📍 **Location:** Colombia  
+📞 **Phone:** +57 3013144203  
+✉️ **Email:** [jjvnz.dev@outlook.com](mailto:jjvnz.dev@outlook.com)  
+🌐 **Portfolio:** [jjvnz.github.io](https://jjvnz.github.io/)  
 
 ---
-¡Gracias por visitar mi perfil! Abierto a nuevas oportunidades y colaboraciones.
+
+### 🛠️ Skills & Technologies
+
+| **Languages**         | **Frameworks**           | **DevOps & Tools**        |
+|-----------------------|--------------------------|----------------------------|
+| Python                | Spring Boot              | AWS                        |
+| Go                    | React                    | Docker                     |
+| Java                  | FastAPI                  | Jenkins                    |
+| JavaScript            |                          | Git                        |
+
+---
+
+### 🔍 Summary
+
+I am a Full Stack Developer with **4+ years** of experience specializing in **microservices** and **AWS**. I am proficient in multiple programming languages, with a strong understanding of both relational and non-relational databases. I thrive in **Scrum** and **Agile** environments, delivering innovative and effective solutions.
+
+### 💡 Why Work With Me?
+- **Versatile Developer**: Experience in multiple domains and technologies.
+- **Innovative Thinker**: Always looking for ways to enhance projects.
+- **Strong Communicator**: Clear and effective collaboration with teams.
+- **Adaptable Problem Solver**: Tackling challenges with ease.
+
+---
+
+### 🎖️ Certifications
+- **Google Go Programming** - University of California, Irvine
+- **Web Development with Python** - IBM
+- **Data Science** - Universidad Distrital Francisco José de Caldas
+- **Scrum Foundation Professional Certification** - Certiprof
+
+---
+
+### 🌍 Languages
+- **Spanish**: Native
+- **English**: Conversational
+
+---
+
+### 📫 Let's Connect!
+I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+---
+
+Thank you for visiting my profile! 🚀
