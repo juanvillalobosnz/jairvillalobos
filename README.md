@@ -1,7 +1,5 @@
-# Juan Villalobos 👋
+![Gihub baner (1)](https://github.com/user-attachments/assets/24ca212a-efa1-468b-af02-88c659972daa)
 
-
-### Backend Engineer | Python & Go Specialist | AWS Enthusiast  
 [![GitHub](https://img.shields.io/badge/GitHub-jjvnz-blue?logo=github)](https://github.com/jjvnz)
 
 
